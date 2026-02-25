@@ -1,0 +1,8 @@
+{
+    "name": "wikisort",
+    "base": "br-base.json",
+    "workdir": ".",
+    "overlay": "overlay",
+    "host-init": "host-init.sh",
+    "run": "run.sh"
+  }
